@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Stock</string>
+    <string name="addMenu">Add</string>
+    <string name="stockPrice">1.6</string>
+    <string name="stockName">company Name</string>
+    <string name="stockSymbol" />
+    <string name="symbol">symbol</string>
+    <string name="name">name</string>
+    <string name="price">price</string>
+    <string name="pricediff">priceDiff</string>
+    <string name="percentdiff">percentDiff</string>
+    <string name="file_name">STOCKS.txt</string>
+</resources>

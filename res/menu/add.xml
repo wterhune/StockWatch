@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@android:color/background_dark">
+
+    <item
+        android:id="@+id/addMenu"
+        android:checkable="false"
+        android:checked="false"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/addMenu"
+        app:showAsAction="ifRoom" />
+</menu>
